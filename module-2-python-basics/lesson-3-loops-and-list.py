@@ -20,6 +20,8 @@ KEY VOCABULARY
 - while loop: looping until something changes
 - index: numbers associated in a list and start with 0. can be used to access the content of a list
 - iteration: an iteration is one round in a loop
+- break: added inside the task of the function, finishes the function
+- continue: added inside the task of the function
 (add more as needed)
 
 ============================================
